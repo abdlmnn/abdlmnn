@@ -33,3 +33,10 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+
+---
+
+## Contact
+- [LinkedIn](https://linkedin.com/in/abdlmnn)
+- [Email](mailto:mohammadabdulmanan24@gmail.com)
