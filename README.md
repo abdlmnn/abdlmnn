@@ -25,13 +25,11 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
-## Collaboration & Projects
+## Contact Me
 
 Open to **collaborating, contributing, or building startups**.  
 
 Feel free to reach out if you want to work together!
-
-## Contact
 
 - [LinkedIn](https://linkedin.com/in/abdlmnn)
 - [Email](mailto:mohammadabdulmanan24@gmail.com)
