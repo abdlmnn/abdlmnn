@@ -28,7 +28,7 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 ## Collaboration & Projects
 
 Open to **collaborating, contributing, or building startups**.  
-Can create **system flows and architecture diagrams** to plan and visualize projects effectively.  
+
 Feel free to reach out if you want to work together!
 
 ## Contact
