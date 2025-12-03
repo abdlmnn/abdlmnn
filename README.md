@@ -1,10 +1,8 @@
+## [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
+
 <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size:18px; color:#4B0082; font-weight:bold;">
 Bismillah ir-Rahman ir-Raheem
 </marquee>
-
-## [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
-
-
 
 Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
 
