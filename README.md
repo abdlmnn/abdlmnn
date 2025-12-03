@@ -1,7 +1,7 @@
 ## [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bismillah4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" alt="Bismillah">
+  <img src="https://img.shields.io/badge/Bismillah-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" alt="Bismillah">
 </p>
 
 Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
