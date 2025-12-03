@@ -8,17 +8,16 @@
 
 Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
 
-## Specializations
+## Specializations & Skills
 
 - **Frontend & Mobile:** React, React Native, Expo, JavaScript, Tailwind CSS
 - **Backend & Databases:** Express.js, Node.js, Django REST, PHP, PostgreSQL, MySQL, MongoDB
-- **Diagramming & Visualization:** System flows & architecture (Lucidchart, draw.io)
 - **Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
+- **Diagramming & Visualization:** System flows & architecture (Lucidchart, draw.io)
 - **Other Tools:** Git, Docker, Lucidchart
 
 ## Core Skills
 
-- System & Process Diagramming
 - Backend engineering fundamentals
 - Writing well-structured, testable code with TDD  
 - Building scalable APIs and full-stack apps  
@@ -26,8 +25,8 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 
 ## Collaboration & Projects
 
-Open to collaborating, contributing, or building startups.  
-Can also create **system flows and architecture diagrams** to plan and visualize projects.  
+Open to **collaborating, contributing, or building startups**.  
+Can create **system flows and architecture diagrams** to plan and visualize projects effectively.  
 Feel free to reach out if you want to work together!
 
 ## Contact
