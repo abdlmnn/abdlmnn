@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Bismillah-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" 
-       alt="Bismillah" 
-       width="400">
-</p>
+
 
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
@@ -26,8 +22,9 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 
 ## Collaboration & Projects
 
-Open to **collaborating, contributing, or building startups**.  
-Can **design system flows and architecture diagrams** to plan and visualize projects effectively.
+Open to collaborating, contributing, or building startups.  
+Can also create **system flows and architecture diagrams** to plan and visualize projects.  
+Feel free to reach out if you want to work together!
 
 ## Contact
 
