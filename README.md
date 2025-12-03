@@ -6,30 +6,29 @@
 
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
-
-Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
-
+Aspiring software developer from the Philippines specializing in backend development, RESTful APIs, and full-stack engineering. I emphasize writing well-structured, testable code and remain flexible across frontend and mobile development.
 
 ## Specializations & Skills
 
-**Frontend & Mobile:** React, React Native, Expo, JavaScript, Tailwind CSS
-**Backend & Databases:** Express.js, Node.js, Django REST, PHP, PostgreSQL, MySQL, MongoDB
-**Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
-**Diagramming & Visualization:** System flows & architecture (Lucidchart, draw.io)
-**Other Tools:** Git, Docker, Lucidchart
+**Frontend & Mobile:** React · React Native · Expo · JavaScript · Tailwind CSS
+**Backend & Databases:** Node.js · Express.js · Django REST · PHP · PostgreSQL · MySQL · MongoDB
+**Testing:** Jest · Vitest
+**Diagramming:** Lucidchart · draw.io
+**Other Tools:** Git, Docker
 
 ## Core Skills
 
 - Backend engineering fundamentals
 - Writing well-structured, testable code with TDD  
+- Design system flows & architecture diagrams
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
-## Contact Me
+## Let’s Connect
 
 Open to **collaborating, contributing, or building startups**.  
 
 Feel free to reach out if you want to work together!
 
-- [LinkedIn](https://linkedin.com/in/abdlmnn)
-- [Email](mailto:mohammadabdulmanan24@gmail.com)
+ [LinkedIn](https://linkedin.com/in/abdlmnn)
+ [Email](mailto:mohammadabdulmanan24@gmail.com)
