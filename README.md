@@ -1,16 +1,17 @@
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
-Senior IT student from the Philippines. I build **backend systems, RESTful APIs, and full-stack applications** with a focus on **clean, testable code**. Flexible in **frontend and mobile development**.
+Aspiring software developer from the Philippines, specializing in **backend systems, RESTful APIs, and full-stack applications** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
 
 ---
 
 ## Specializations
 
 - **Frontend:** React, React Native, JavaScript, Tailwind CSS
-- - **Mobile:** React Native, Expo
+- **Mobile:** React Native, Expo
 - **Backend & Databases:** Express.js, Node.js, Django REST, PHP
 - **Databases:** PostgreSQL, MySQL, MongoDB 
 - **Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
+- **Other Tools:** Git, Docker
 
 ---
 
