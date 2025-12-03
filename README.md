@@ -24,6 +24,11 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
+## Collaboration & Projects
+
+Open to **collaborating, contributing, or building startups**.  
+Can **design system flows and architecture diagrams** to plan and visualize projects effectively.
+
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/abdlmnn)
