@@ -22,6 +22,18 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
+## Diagramming & Visualization Skills
+
+I create **system diagrams** to help plan, visualize, and communicate software architecture clearly. Examples include:  
+
+- **Context Diagrams** – High-level overview of system interactions  
+- **Data Flow Diagrams (DFD)** – Show how data moves through a system  
+- **Entity-Relationship Diagrams (ERD)** – Database structure and relationships  
+
+**Tools I use:** [draw.io](https://www.diagrams.net/) | [Lucidchart](https://www.lucidchart.com/)  
+
+These diagrams help teams **understand complex systems quickly**, making collaboration and project planning more efficient.
+
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/abdlmnn)
