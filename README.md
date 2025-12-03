@@ -2,8 +2,6 @@
 
 Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
 
----
-
 ## Specializations
 
 - **Frontend & Mobile:** React, React Native, Expo, JavaScript, Tailwind CSS
@@ -11,16 +9,12 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 - **Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
 - **Other Tools:** Git, Docker
 
----
-
 ## Core Skills
 
 - Backend engineering fundamentals  
 - Writing **well-structured, testable code with TDD**  
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
-
----
 
 ## Contact
 
