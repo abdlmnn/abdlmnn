@@ -11,12 +11,16 @@ Aspiring software developer from the Philippines specializing in backend develop
 ## Specializations & Skills
 
 **Frontend & Mobile:** React · React Native · Expo · JavaScript · Tailwind CSS
+
 **Backend & Databases:** Node.js · Express.js · Django REST · PHP · PostgreSQL · MySQL · MongoDB
+
 **Testing:** Jest · Vitest
+
 **Diagramming:** Lucidchart · draw.io
+
 **Other Tools:** Git, Docker
 
-## What i Do
+## What I Do
 
 - Backend engineering fundamentals
 - Writing well-structured, testable code with TDD  
