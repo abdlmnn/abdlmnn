@@ -16,7 +16,7 @@ Aspiring software developer from the Philippines specializing in backend develop
 **Diagramming:** Lucidchart · draw.io
 **Other Tools:** Git, Docker
 
-## Core Skills
+## What i Do
 
 - Backend engineering fundamentals
 - Writing well-structured, testable code with TDD  
