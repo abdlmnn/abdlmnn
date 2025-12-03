@@ -24,7 +24,7 @@ Aspiring software developer from the Philippines specializing in backend develop
 
 - Backend engineering fundamentals
 - Writing well-structured, testable code with TDD  
-- Design system flows & architecture diagrams
+- Designing system flows & architecture diagrams
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
