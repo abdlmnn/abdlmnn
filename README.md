@@ -12,34 +12,17 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 
 - **Frontend & Mobile:** React, React Native, Expo, JavaScript, Tailwind CSS
 - **Backend & Databases:** Express.js, Node.js, Django REST, PHP, PostgreSQL, MySQL, MongoDB
+- **Diagramming & Visualization:** Context Diagrams, Data Flow Diagrams (DFD), Entity-Relationship Diagrams (ERD), Process Flow Diagrams (PFD)
 - **Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
-- **Diagramming & Visualization:** Context Diagrams, Data Flow Diagrams (DFD), Entity-Relationship Diagrams (ERD)
-- **Other Tools:** Git, Docker
-- **Diagramming & Visualization:**  
-  - Context Diagrams: High-level system interactions  
-  - Data Flow Diagrams (DFD): Show how data moves through a system  
-  - Entity-Relationship Diagrams (ERD): Database structure and relationships  
-  - Process Flow Diagrams (PFD): Map workflows and system processes
-  **Tools:** [draw.io](https://www.diagrams.net/), [Lucidchart](https://www.lucidchart.com/) 
+- **Other Tools:** Git, Docker, Lucidchart
 
 ## Core Skills
 
-- Backend engineering fundamentals  
+- Backend engineering fundamentals
+- **System & Process Diagramming** Flows & architecture
 - Writing **well-structured, testable code with TDD**  
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
-
-## Diagramming & Visualization Skills
-
-I create **system diagrams** to help plan, visualize, and communicate software architecture clearly. Examples include:  
-
-- **Context Diagrams** – High-level overview of system interactions  
-- **Data Flow Diagrams (DFD)** – Show how data moves through a system  
-- **Entity-Relationship Diagrams (ERD)** – Database structure and relationships  
-
-**Tools I use:** [draw.io](https://www.diagrams.net/) | [Lucidchart](https://www.lucidchart.com/)  
-
-These diagrams help teams **understand complex systems quickly**, making collaboration and project planning more efficient.
 
 ## Contact
 
