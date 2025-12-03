@@ -31,4 +31,6 @@ Open to **collaborating, contributing, or building startups**.
 Feel free to reach out if you want to work together!
 
  [LinkedIn](https://linkedin.com/in/abdlmnn)
+
+·
  [Email](mailto:mohammadabdulmanan24@gmail.com)
