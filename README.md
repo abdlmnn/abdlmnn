@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Bismillah-ir--Rahman--ir--Raheem-ff69b4?style=for-the-badge&logoColor=white&labelColor=6f42c1" alt="Bismillah">
 </p>
 
-
 Aspiring software developer from the Philippines, specializing in **backend development, RESTful APIs, and full-stack development** with a focus on **well-structured, testable code**. Flexible in **frontend and mobile development**.
 
 ## Specializations
