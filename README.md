@@ -12,15 +12,15 @@ Aspiring software developer from the Philippines, specializing in **backend deve
 
 - **Frontend & Mobile:** React, React Native, Expo, JavaScript, Tailwind CSS
 - **Backend & Databases:** Express.js, Node.js, Django REST, PHP, PostgreSQL, MySQL, MongoDB
-- **Diagramming & Visualization:** Context Diagrams, Data Flow Diagrams (DFD), Entity-Relationship Diagrams (ERD), Process Flow Diagrams (PFD)
+- **Diagramming & Visualization:** System flows & architecture (Lucidchart, draw.io)
 - **Testing & Quality:** Unit Testing, TDD (Jest, Vitest)
 - **Other Tools:** Git, Docker, Lucidchart
 
 ## Core Skills
 
+- System & Process Diagramming
 - Backend engineering fundamentals
-- **System & Process Diagramming** Flows & architecture
-- Writing **well-structured, testable code with TDD**  
+- Writing well-structured, testable code with TDD  
 - Building scalable APIs and full-stack apps  
 - Cloud deployment & DevOps basics
 
