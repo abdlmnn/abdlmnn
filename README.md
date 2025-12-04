@@ -13,20 +13,28 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 ## Specializations & Skills
 
 **Frontend & Mobile** 
+
 - React · React Native · Expo
 - JavaScript · Tailwind CSS
 
-**Backend & Databases** 
+**Backend & Testing** 
+
 -  Node.js · Express.js
 -  Django REST · PHP
--  PostgreSQL · MySQL · MongoDB
+-  Jest · Vitest
 
-**Testing**
-- Jest · Vitest
+**ORM & Database**
+
+- Prisma 
+- PostgreSQL 
+- MySQL 
+- MongoDB
 
 **Other Tools**
-- Git · Docker 
-- 
+
+- Git  
+- Docker
+  
 ## What I Do
 
 - Backend engineering fundamentals
