@@ -18,7 +18,7 @@ Aspiring software developer from the Philippines specializing in backend develop
 
 **Diagramming:** Lucidchart · draw.io
 
-**Other Tools:** Git, Docker
+**Other Tools:** Git · Docker
 
 ## What I Do
 
@@ -34,7 +34,13 @@ Open to **collaborating, contributing, or building startups**.
 
 Feel free to reach out if you want to work together!
 
- [LinkedIn](https://linkedin.com/in/abdlmnn)
+<div align="center" style="display: flex; justifying-content: center;">
+  <p>
+    [LinkedIn](https://linkedin.com/in/abdlmnn)
+  </p>
+  <p>
+    [Email](mailto:mohammadabdulmanan24@gmail.com)
+  </p>
+</div>
 
 
- [Email](mailto:mohammadabdulmanan24@gmail.com)
