@@ -30,16 +30,17 @@ Aspiring software developer from the Philippines specializing in backend develop
 
 ## Let’s Connect
 
-Open to **collaborating, contributing, or building startups**.  
-
-Feel free to reach out if you want to work together!
 
 <div align="center" style="display: flex; justifying-content: center;">
-
-    [LinkedIn](https://linkedin.com/in/abdlmnn)
-
-    [Email](mailto:mohammadabdulmanan24@gmail.com)
- 
+  Open to **collaborating, contributing, or building startups**.  
+  
+  Feel free to reach out if you want to work together!
 </div>
+
+[LinkedIn](https://linkedin.com/in/abdlmnn)
+
+[Email](mailto:mohammadabdulmanan24@gmail.com)
+ 
+
 
 
