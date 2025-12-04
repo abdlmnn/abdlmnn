@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Bismillah-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" 
-       alt="Bismillah" 
-       width="100%" height="300">
+
+  <img src="https://img.shields.io/badge/-4CAF50?style=for-the-badge&label=Bismillah&labelColor=4CAF50&logoColor=white&labelFontSize=30" 
+      alt="Bismillah"
+      width="100%" height="300">
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
