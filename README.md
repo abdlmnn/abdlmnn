@@ -35,12 +35,11 @@ Open to **collaborating, contributing, or building startups**.
 Feel free to reach out if you want to work together!
 
 <div align="center" style="display: flex; justifying-content: center;">
-  <p>
+
     [LinkedIn](https://linkedin.com/in/abdlmnn)
-  </p>
-  <p>
+
     [Email](mailto:mohammadabdulmanan24@gmail.com)
-  </p>
+ 
 </div>
 
 
