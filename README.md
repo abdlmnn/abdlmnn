@@ -6,9 +6,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
-<div align="center" style="display: flex; justifying-content: center;">
 Aspiring software developer from the Philippines specializing in backend development, RESTful APIs, and full-stack development. I emphasize writing well-structured, testable code and remain flexible across frontend and mobile development.
-</div>
+
 ## Specializations & Skills
 
 **Frontend & Mobile:** React · React Native · Expo · JavaScript · Tailwind CSS
