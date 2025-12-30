@@ -14,14 +14,14 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 
 **Frontend & Mobile** 
 
-- React · React Native · Expo
+- React · Next.js · Expo
 - JavaScript · Tailwind CSS
 
-**Backend & Testing** 
+**Backend & API** 
 
+-  Django · Django Ninja · Django REST Framework
 -  Node.js · Express.js
--  Django REST · PHP
--  Jest · Vitest
+-  PHP
 
 **ORM & Database**
 
@@ -34,6 +34,7 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 
 - Git  
 - Docker
+- Linux
   
 ## What I Do
 
