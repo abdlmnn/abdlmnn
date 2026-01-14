@@ -12,37 +12,33 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 
 ## Specializations & Skills
 
-**Frontend & Mobile** 
+**Languages** 
 
-- React · Next.js · Expo
-- JavaScript · Tailwind CSS
+- Python · JavaScript ·  PHP · SQL
 
-**Backend & API** 
+**Frameworks & Libraries** 
 
--  Django · Django Ninja · Django REST Framework
--  Node.js · Express.js
--  PHP
-
+- Django · Django Ninja · Django REST Framework
+- React · Next.js · Node.js  Express.js
+- React Native · Expo
+- Tailwind CSS
+  
 **ORM & Database**
 
-- Prisma 
-- PostgreSQL 
-- MySQL 
-- MongoDB
+- Django ORM · Prisma 
+- MySQL · PostgreSQL · MongoDB
 
-**Other Tools**
+**Architecture & Tools**
 
-- Git  
-- Docker
-- Linux
+- DTOs & Schemas · RESTful API Design · TDD
+- Git · Linux · Docker
   
 ## What I Do
 
 - Backend engineering fundamentals
+- Type-safe API development and strict data validation
 - Writing well-structured, testable code with TDD  
 - Designing system flows & architecture diagrams
-- Building scalable APIs and full-stack apps  
-- Cloud deployment & DevOps basics
 
 ## Let’s Connect
 
