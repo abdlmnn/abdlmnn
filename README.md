@@ -19,7 +19,7 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 **Frameworks & Libraries** 
 
 - Django · Django Ninja · Django REST Framework
-- React · Next.js · Node.js  Express.js
+- React · Next.js · Node.js · Express.js
 - React Native · Expo
 - Tailwind CSS
   
