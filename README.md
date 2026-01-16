@@ -28,9 +28,8 @@ I emphasize writing well-structured, testable code and remain flexible across fr
 - Django ORM · Prisma 
 - MySQL · PostgreSQL · MongoDB
 
-**Architecture & Tools**
+**Tools**
 
-- DTOs & Schemas · RESTful API Design · TDD
 - Git · Linux · Docker
   
 ## What I Do
