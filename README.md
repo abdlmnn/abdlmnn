@@ -25,8 +25,8 @@ I emphasize writing well-structured, testable code and remain flexible across fr
   
 **ORM & Database**
 
-- Django ORM · Prisma 
-- MySQL · PostgreSQL · MongoDB
+- Django ORM · Drizzle
+- MySQL · PostgreSQL
 
 **Tools**
 
