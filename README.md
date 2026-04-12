@@ -6,9 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
-Aspiring software developer from the Philippines specializing in backend development, RESTful APIs, and full-stack development. 
-
-I emphasize writing well-structured, testable code and remain flexible across frontend and mobile development.
+Aspiring software developer from the Philippines specializing in backend development, RESTful APIs, full-stack web and mobile application development. 
 
 ## Specializations & Skills
 
@@ -34,10 +32,10 @@ I emphasize writing well-structured, testable code and remain flexible across fr
   
 ## What I Do
 
-- Backend engineering fundamentals
-- Type-safe API development and strict data validation
-- Writing well-structured, testable code with TDD  
-- Designing system flows & architecture diagrams
+- Backend engineering fundamentals & API Design
+- Building full-stack web & mobile applications
+- Designing system flows & architecture diagrams 
+- UI/UX Design using Figma
 
 ## Let’s Connect
 
