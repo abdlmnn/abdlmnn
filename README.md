@@ -16,7 +16,7 @@ Aspiring software developer from the Philippines specializing in backend develop
 
 **Frameworks & Libraries** 
 
-- Django · Django Ninja · Django REST Framework
+- Django · Django REST Framework
 - React · Next.js
 - React Native · Expo
 - Tailwind CSS
