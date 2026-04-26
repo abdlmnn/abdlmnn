@@ -6,4 +6,4 @@ I specialise in backend development, API design, and building APIs. I also handl
 
 I am comfortable working across both front-end and back-end, with good design knowledge.
 
-My projects are mostly full-stack (web, mobile, API).
+My projects & intership experience are mostly full-stack (web, mobile, API).
