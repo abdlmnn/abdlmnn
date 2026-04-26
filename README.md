@@ -16,4 +16,4 @@ My projects are mostly full-stack (web/mobile/API).
 ### Experience
 During my internship, I worked on a management system & job posting project where I developed APIs, handled testing, and worked with Docker for deployment. 
 
-I also used Linux in a production-like environment and gained experience with reverse proxy setup and server configuration.
+I also used Linux in a production-like environment and gained experience with reverse proxy setup and server configuration, along with using GitLab for version control and collaboration.
