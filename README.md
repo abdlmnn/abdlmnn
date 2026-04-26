@@ -2,10 +2,14 @@
 
 # Software Developer (Backend)
 
-I specialise in backend, API development, and design. I also do security, maintenance and testing.
+## About Me
+I specialise in backend development, API design, and system architecture. I also handle security, maintenance, and testing.
 
-I am comfortable with front-end and back-end, and have good design knowledge.
+I am comfortable working across both front-end and back-end, with a good understanding of design.
 
-My projects are mostly full-stack (web/mobile/API).
+My projects are mostly full-stack (web, mobile, API).
 
-During my internship, I worked on a management system & job posting project where I developed APIs, handled testing, and worked with Docker for deployment. I also used Linux in a production-like environment and gained experience with reverse proxy setup and server configuration.
+## Internship Experience
+During my internship, I worked on a management system and job posting project where I developed APIs, handled testing, and worked with Docker for deployment.
+
+I also used Linux in a production-like environment and gained experience with reverse proxy setup and server configuration.
