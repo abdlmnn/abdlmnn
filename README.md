@@ -44,13 +44,3 @@ Open to **collaborating, contributing, or building startups**.
 Feel free to reach out if you want to work together!
 
 [LinkedIn](https://linkedin.com/in/abdlmnn) | [Email](mailto:mohammadabdulmanan24@gmail.com)
-
-## Current Project
-### Sarig API
-Backend API for Sarig, a local jobs platform in Marawi City.
-
-- Stack: Django, DRF, PostgreSQL
-- Focus: Auth, job posting, applications, moderation
-- Repo: https://github.com/abdlmnn/sarig-api
-
-
