@@ -1,46 +1,9 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Bismillah-4CAF50?style=for-the-badge&logoColor=white&labelColor=4CAF50" 
-       alt="Bismillah" 
-       width="100%" height="300">
-</p>
-
 [![wakatime](https://wakatime.com/badge/user/7885c2e4-c6ef-44ea-953a-8f86210656f5.svg)](https://wakatime.com/@7885c2e4-c6ef-44ea-953a-8f86210656f5)
 
-Aspiring software developer from the Philippines specializing in backend development, RESTful APIs, full-stack web and mobile application development. 
+# Software Developer (Backend)
 
-## Specializations & Skills
+I specialise in backend development, API design, and building APIs. I also handle security, maintenance, and testing.
 
-**Languages** 
+I am comfortable working across both front-end and back-end, with good design knowledge.
 
-- Python · JavaScript ·  PHP · SQL
-
-**Frameworks & Libraries** 
-
-- Django · Django REST Framework
-- React · Next.js
-- React Native · Expo
-- Tailwind CSS
-  
-**ORM & Database**
-
-- Django ORM · Drizzle
-- MySQL · PostgreSQL
-
-**Tools**
-
-- Git · Linux · Docker
-  
-## What I Do
-
-- Backend engineering fundamentals & API Design
-- Building full-stack web & mobile applications
-- Designing system flows & architecture diagrams 
-- UI/UX Design using Figma
-
-## Let’s Connect
-
-Open to **collaborating, contributing, or building startups**.  
-  
-Feel free to reach out if you want to work together!
-
-[LinkedIn](https://linkedin.com/in/abdlmnn) | [Email](mailto:mohammadabdulmanan24@gmail.com)
+My projects are mostly full-stack (web, mobile, API).
